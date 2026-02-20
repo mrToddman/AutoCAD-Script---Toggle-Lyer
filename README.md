@@ -1,4 +1,4 @@
-# AutoCAD Script - Toggle-Lyer
+# AutoCAD Script - Toggle-Layer
 Toggles Demolition, Existing, and New AutoCAD layers on or off.
 
 How to install:
